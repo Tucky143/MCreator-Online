@@ -1,5 +1,5 @@
-# .github/workflows/run-script.yml
-name: Run Linux Script
+# .github/workflows/run-mcreator.yml
+name: Run MCreator Script
 
 on:
   push:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Run my script
-        run: |
-          chmod +x ./mcreator.sh
-          ./mcreator.sh
+      - name: Ensure script is executable
+        run: chmod +x ./mcreator.sh
+      - name: Execute mcreator.sh
+        run: ./mcreator.sh
