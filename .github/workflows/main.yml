@@ -1,0 +1,16 @@
+# .github/workflows/run-script.yml
+name: Run Linux Script
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run my script
+        run: |
+          chmod +x ./mcreator.sh
+          ./mcreator.sh
