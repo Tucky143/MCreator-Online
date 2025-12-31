@@ -1,0 +1,71 @@
+{
+  "ui": {
+    "language": "en_US",
+    "interfaceAccentColor": {
+      "value": -7092917,
+      "falpha": 0.0
+    },
+    "backgroundSource": "All",
+    "aatext": true,
+    "textAntialiasingType": "on",
+    "usemacOSMenuBar": true,
+    "useNativeFileChooser": true,
+    "expandSectionsByDefault": false,
+    "use2DAcceleration": false,
+    "autoreloadTabs": true,
+    "remindOfUnsavedChanges": false,
+    "discordRichPresenceEnable": true
+  },
+  "backups": {
+    "workspaceAutosaveInterval": 30,
+    "automatedBackupInterval": 5,
+    "numberOfBackupsToStore": 10,
+    "backupOnVersionSwitch": true
+  },
+  "blockly": {
+    "blockRenderer": "Thrasos",
+    "useSmartSort": true,
+    "enableComments": true,
+    "enableCollapse": true,
+    "enableTrashcan": true,
+    "maxScale": 100,
+    "minScale": 40,
+    "scaleSpeed": 105,
+    "legacyFont": false
+  },
+  "ide": {
+    "editorTheme": "MCreator",
+    "fontSize": 12,
+    "autocomplete": true,
+    "autocompleteMode": "Smart",
+    "autocompleteDocWindow": true,
+    "lineNumbers": true,
+    "errorInfoEnable": true
+  },
+  "gradle": {
+    "compileOnSave": true,
+    "passLangToMinecraft": true,
+    "xms": 625,
+    "xmx": 2048,
+    "offline": false
+  },
+  "bedrock": {
+    "silentReload": false
+  },
+  "notifications": {
+    "openWhatsNextPage": true,
+    "snapshotMessage": true,
+    "checkAndNotifyForUpdates": true,
+    "checkAndNotifyForPatches": true,
+    "checkAndNotifyForPluginUpdates": false
+  },
+  "hidden": {
+    "workspaceModElementIconSize": "TILES",
+    "fullScreen": false,
+    "projectTreeSplitPos": 0,
+    "workspaceSortAscending": true,
+    "workspaceSortType": "CREATED",
+    "uiTheme": "default_dark",
+    "enableJavaPlugins": false
+  }
+}

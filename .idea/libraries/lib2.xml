@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/rhino-all-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnbt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.28.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/discord-rpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rhino-xml-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/roaster-jdt-2.30.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-swing-21.0.8-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reflections-0.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-web-21.0.8-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.25.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/balloontip-1.2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/failureaccess-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-33.5.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-nop-2.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j2objc-annotations-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/univocity-parsers-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-extras-3.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mcreator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-media-21.0.8-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsvg-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/autocomplete-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-3.6.2-no-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-text-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gradle-tooling-api-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-21.0.8-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/freemarker-2.3.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/autolink-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rhino-tools-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commonmark-0.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/languagesupport-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-21.0.8-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/roaster-api-2.30.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/error_prone_annotations-2.41.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.25.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junidecode-0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flag-icons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-21.0.8-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/blockly.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commonmark-ext-autolink-0.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commonmark-ext-gfm-tables-0.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/obj-0.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jspecify-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-engine-2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rsyntaxtextarea-3.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

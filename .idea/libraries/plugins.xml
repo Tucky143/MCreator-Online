@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/generator-1.21.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcreator-core.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcreator-localization.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/generator-1.21.8.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/generator-addon-1.21.x.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcreator-themes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcreator-link.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
