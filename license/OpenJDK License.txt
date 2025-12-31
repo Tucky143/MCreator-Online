@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0f03ccc27822699dd749b8714960ad7c11093c6907ba54908b1e949fd445d48
-size 147
+License for the OpenJDK distribution provided with MCreator is located in the subdirectory jdk of MCreator's installation in a file called LICENSE.

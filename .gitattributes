@@ -1,11 +1,1 @@
-# Track all .sh scripts via Git LFS
-*.sh filter=lfs diff=lfs merge=lfs -text
-
-# Track all files inside .mcreator/ recursively via Git LFS
-.mcreator/** filter=lfs diff=lfs merge=lfs -text
-
-# Track specific binary Java module (optional — see below)
-jdk/lib/modules filter=lfs diff=lfs merge=lfs -text
-
-# (Optional fallback — don't use this alone without a pattern)
-filter=lfs diff=lfs merge=lfs -text
+/jdk/lib/modules filter=lfs diff=lfs merge=lfs -text
